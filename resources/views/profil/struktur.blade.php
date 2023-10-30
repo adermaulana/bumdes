@@ -13,7 +13,7 @@
             </nav>
             <h2>Struktur BUMDES Nepo Pembaharuan</h2>
             <hr>
-            <img src="/images/struktur.png" alt="">
+            <img class="img-fluid" src="/images/struktur.png" alt="">
         </div>
 
 
